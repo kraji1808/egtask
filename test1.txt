@@ -1,1 +1,2 @@
 this first step of learning what is git and github
+successfully completed half a way
